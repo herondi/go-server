@@ -5,6 +5,7 @@ Este é um projeto simples de servidor em Go.
 ## 📝 Descrição
 
 O projeto go-server é uma implementação básica de um servidor utilizando a linguagem de programação Go. Ele demonstra como lidar com requisições HTTP, servir arquivos estáticos e processar envios de formulários.
+![Imagem](https://github.com/herondi/go-server/blob/main/image/image.jpeg)
 
 ## ⭐️ Recursos
 
